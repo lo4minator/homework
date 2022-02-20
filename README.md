@@ -11,9 +11,10 @@ jsonnet
 
 terraform
 ![image](https://user-images.githubusercontent.com/78625356/154867169-a85e313a-e8f2-4e3f-b6a0-699d3fad32db.png)
+не заработал - Error running 'Plan directory scratches': Path to Terraform executable is incorrect
 
 yaml
-![image](https://user-images.githubusercontent.com/78625356/154867444-a5ae4959-100a-4696-ab63-72f023d5041e.png)
+![image](https://user-images.githubusercontent.com/78625356/154867517-970308df-932f-46fc-a66d-0e9f20379801.png)
 
 bash
 ![image](https://user-images.githubusercontent.com/78625356/154867244-aedf023f-7024-4659-89db-9a670f53c363.png)
